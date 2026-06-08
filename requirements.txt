@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly==5.18.0
+scikit-learn
+python-dotenv
+langchain
+langchain-groq
+langgraph
